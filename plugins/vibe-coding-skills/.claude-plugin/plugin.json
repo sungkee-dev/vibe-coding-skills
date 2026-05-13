@@ -1,0 +1,8 @@
+{
+  "name": "vibe-coding-skills",
+  "version": "1.0.0",
+  "description": "PRD 작성, 리뷰, 화면 스펙 도출을 위한 스킬 모음. PRD Generator, PRD Reviewer, Screen Spec 스킬을 포함한다.",
+  "author": {
+    "name": "sungkee-dev"
+  }
+}
