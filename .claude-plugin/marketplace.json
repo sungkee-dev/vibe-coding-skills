@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "vibe-coding-skills",
+  "description": "PRD 작성, 리뷰, 화면 스펙 도출을 위한 Claude Code 스킬 마켓플레이스",
+  "owner": {
+    "name": "sungkee-dev"
+  },
+  "plugins": [
+    {
+      "name": "vibe-coding-skills",
+      "description": "PRD 작성, 리뷰, 화면 스펙 도출을 위한 스킬 모음. PRD Generator, PRD Reviewer, Screen Spec 스킬을 포함한다.",
+      "author": {
+        "name": "sungkee-dev"
+      },
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/sungkee-dev/vibe-coding-skills.git",
+        "path": "plugins/vibe-coding-skills",
+        "ref": "main"
+      }
+    }
+  ]
+}
